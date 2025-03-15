@@ -12,6 +12,9 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+
+and then Download Ollama from website, after installing it run it locally on your terminal with 'ollama run llama3' or 'ollama run deepseek-r1'
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
