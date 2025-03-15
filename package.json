@@ -1,0 +1,27 @@
+{
+  "name": "aditya_gupta_ai_assistant",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.12.4",
+    "@tanstack/react-query": "^5.68.0",
+    "@tanstack/react-query-devtools": "^5.68.0",
+    "daisyui": "^5.0.0",
+    "next": "15.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.5.0",
+    "tree": "^0.1.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.12",
+    "tailwindcss": "^4.0.12"
+  }
+}
